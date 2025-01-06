@@ -1,4 +1,7 @@
 {
     "files.autoSave": "onFocusChange",
-    "editor.wordWrap": "on"
+    "editor.wordWrap": "on",
+    "cSpell.words": [
+        "displot"
+    ]
 }
